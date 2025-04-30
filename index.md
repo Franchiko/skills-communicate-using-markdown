@@ -17,3 +17,9 @@ let codigo = {
     rol: developer
     }
 ```
+
+### Lista de Tareas
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
